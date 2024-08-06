@@ -43,4 +43,4 @@
 <br/>
 
 ## 🟢 기술 스택
-<img src="https://skillicons.dev/icons?i=java,spring,mariadb,flutter,figma& perline="/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,flutter,figma& perline="/>
