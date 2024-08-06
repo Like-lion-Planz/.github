@@ -39,5 +39,8 @@
 
 기존 수면 앱은 수면 분석과 유도에만 집중하여 수면 패턴을 개선하려는 사용자의 니즈를 충족하지 못합니다. 그러나 플랜즈는 사용자의 최적의 수면 스케줄을 계획하고 알림을 통해 지속적으로 관리해 줍니다.
 
+<br/>
+<br/>
+
 ## 🟢 기술 스택
 <img src="https://skillicons.dev/icons?i=java,spring,mariadb,flutter,figma& perline="/>
